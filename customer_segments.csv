@@ -1,0 +1,16 @@
+CustomerID,TenureMonths,MonthlyCharges,SupportTickets,ContractType,Churn,RiskScore,RiskLevel,Segment
+CUST-1001,12,49.99,3,Month-to-Month,Yes,3,Medium,Medium-Risk Monitor
+CUST-1002,24,79.99,1,One Year,No,1,Low,Low-Risk Maintain
+CUST-1003,6,49.99,5,Month-to-Month,Yes,4,High,High-Risk Priority
+CUST-1004,36,149.99,0,Two Year,No,1,Low,Low-Risk Maintain
+CUST-1005,8,79.99,4,Month-to-Month,Yes,4,High,High-Risk Priority
+CUST-1006,18,49.99,2,One Year,No,2,Medium,Medium-Risk Monitor
+CUST-1007,3,49.99,6,Month-to-Month,Yes,4,High,High-Risk Priority
+CUST-1008,48,149.99,1,Two Year,No,1,Low,Low-Risk Maintain
+CUST-1009,15,79.99,2,One Year,No,2,Medium,Medium-Risk Monitor
+CUST-1010,4,49.99,4,Month-to-Month,Yes,4,High,High-Risk Priority
+CUST-1011,30,149.99,0,Two Year,No,1,Low,Low-Risk Maintain
+CUST-1012,14,79.99,3,Month-to-Month,Yes,2,Medium,Medium-Risk Monitor
+CUST-1013,22,49.99,1,One Year,No,1,Low,Low-Risk Maintain
+CUST-1014,2,49.99,5,Month-to-Month,Yes,4,High,High-Risk Priority
+CUST-1015,40,149.99,1,Two Year,No,1,Low,Low-Risk Maintain
